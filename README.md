@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ramdom Words !</h1>
+<h1 align="center">Welcome to Ramdom Words 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -18,6 +18,17 @@ npm install
 ```sh
 expo start
 ```
+### Website
+
+* Website: https://miktae.github.io/random_words/
+
+### Android Setup
+
+* Android: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40miktae/RWs-aa732ff0b07d49e5973db8f94d2225c4-signed.apk
+
+### iOS Setup
+
+* iOS: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40miktae/RWs-aa732ff0b07d49e5973db8f94d2225c4-signed.apk
 
 ## Author
 
