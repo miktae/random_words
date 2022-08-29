@@ -28,7 +28,7 @@ expo start
 
 ### iOS Setup
 
-* [iOS]: (https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40miktae/RWs-aa732ff0b07d49e5973db8f94d2225c4-signed.apk)
+* [iOS](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40miktae/RWs-aa732ff0b07d49e5973db8f94d2225c4-signed.apk)
 
 ## Author
 
