@@ -24,7 +24,7 @@ expo start
 
 ### Android Setup
 
-*  [Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40miktae/RWs-aa732ff0b07d49e5973db8f94d2225c4-signed.apk)
+*  [Android](https://expo.dev/artifacts/3e74d56b-8810-4c91-99dc-8b7539934a5b)
 
 ### iOS Setup
 
