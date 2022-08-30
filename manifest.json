@@ -8,6 +8,10 @@
   "orientation": "portrait",
   "related_applications": [
     {
+      "platform": "itunes",
+      "id": "com.tn07.rws"
+    },
+    {
       "platform": "play",
       "url": "http://play.google.com/store/apps/details?id=com.tn07.rws",
       "id": "com.tn07.rws"
