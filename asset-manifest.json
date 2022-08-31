@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/random_words/static/js/app.f64bbc76.chunk.js",
-    "app.js.map": "/random_words/static/js/app.f64bbc76.chunk.js.map",
+    "app.js": "/random_words/static/js/app.b2287d10.chunk.js",
+    "app.js.map": "/random_words/static/js/app.b2287d10.chunk.js.map",
     "runtime~app.js": "/random_words/static/js/runtime~app.a8becde1.js",
     "runtime~app.js.map": "/random_words/static/js/runtime~app.a8becde1.js.map",
-    "static/js/2.0ddcc222.chunk.js": "/random_words/static/js/2.0ddcc222.chunk.js",
-    "static/js/2.0ddcc222.chunk.js.map": "/random_words/static/js/2.0ddcc222.chunk.js.map",
+    "static/js/2.713edbc7.chunk.js": "/random_words/static/js/2.713edbc7.chunk.js",
+    "static/js/2.713edbc7.chunk.js.map": "/random_words/static/js/2.713edbc7.chunk.js.map",
     "fonts/AntDesign.ttf": "/random_words/./fonts/AntDesign.ttf",
     "favicon-16.png": "/random_words/favicon-16.png",
     "favicon-32.png": "/random_words/favicon-32.png",
@@ -13,11 +13,11 @@
     "index.html": "/random_words/index.html",
     "manifest.json": "/random_words/manifest.json",
     "serve.json": "/random_words/serve.json",
-    "static/js/2.0ddcc222.chunk.js.LICENSE.txt": "/random_words/static/js/2.0ddcc222.chunk.js.LICENSE.txt"
+    "static/js/2.713edbc7.chunk.js.LICENSE.txt": "/random_words/static/js/2.713edbc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.a8becde1.js",
-    "static/js/2.0ddcc222.chunk.js",
-    "static/js/app.f64bbc76.chunk.js"
+    "static/js/2.713edbc7.chunk.js",
+    "static/js/app.b2287d10.chunk.js"
   ]
 }
